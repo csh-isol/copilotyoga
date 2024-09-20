@@ -3,7 +3,7 @@
 # copilotyoga
 This repository serves to encourage usage of Copilot for Microsoft 365 by recommending daily prompts thanks to a Power Automate flow.
 
-https://player.vimeo.com/video/1011384726?h=bee242e800
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1011384726?h=bee242e800" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 Step 1	Download and open the CopilotYoga_Prompts.xlsx (https://github.com/sir-benniboy/copilotyoga/blob/main/CopilotYoga_Prompts.xlsx)
 
