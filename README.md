@@ -3,7 +3,8 @@
 # copilotyoga
 This repository serves to encourage usage of Copilot for Microsoft 365 by recommending daily prompts thanks to a Power Automate flow.
 
-Installation walkthrough : https://player.vimeo.com/video/1011384726?h=bee242e800
+<a href="https://player.vimeo.com/video/1011384726?h=bee242e800">Installation walkthrough :
+![1000024127](https://github.com/user-attachments/assets/e60b68bd-14b4-44b3-aeb2-85a28bc04032)</a>
 
 ----------------------
 
